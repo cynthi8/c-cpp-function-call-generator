@@ -2,6 +2,9 @@
   "name": "c-cpp-function-call-generator",
   "displayName": "c-cpp-function-call-generator",
   "description": "Generates a function call from a function signature, using the function parameters as arguments.",
+  "publisher": "cynthi8",
+	"repository": "https://github.com/cynthi8/c-cpp-function-call-generator.git",
+  "license": "MIT",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.75.0"
